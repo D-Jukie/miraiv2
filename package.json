@@ -15,6 +15,7 @@
     "author": "D-Jukie",
     "license": "GPL-3.0",
     "dependencies": {
+        "@miraipr0ject/assets": "",
         "helyt": "",
         "axios": "",
         "body-parser": "",
