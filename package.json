@@ -15,6 +15,7 @@
     "author": "D-Jukie",
     "license": "GPL-3.0",
     "dependencies": {
+        "simple-youtube-api": "",
         "@miraipr0ject/assets": "",
         "helyt": "",
         "axios": "",
