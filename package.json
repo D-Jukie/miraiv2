@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/D-Jukie/miraiv2"
+        "url": "git+https://github.com/D-Jukie/miraiv2.git"
     },
     "author": "D-Jukie",
     "license": "GPL-3.0",
