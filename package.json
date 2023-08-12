@@ -1,7 +1,7 @@
 {
-    "name": "MiraiBypassD-Jukie",
-    "version": "1.2.14",
-    "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
+    "name": "yukihirasoma",
+    "version": "1.2.20",
+    "description": "Yukihira Soma package.json",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
